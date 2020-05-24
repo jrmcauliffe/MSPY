@@ -1,0 +1,19 @@
+Source,/home/jon/projects/MSPY/MSPY.sch
+Kicad Rev,Eeschema 5.1.6-c6e7f7d~86~ubuntu18.04.1
+Generated Date,Sun 24 May 2020 07:45:08 AEST
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U1,MSP430FR2433RGE,extended,MSP430FR2433RGE
+J2,Conn_01x12,Connector_Generic,Conn_01x12
+J1,Conn_01x12,Connector_Generic,Conn_01x12
+J3,Conn_01x06,Connector_Generic,Conn_01x06
+C1,10uF,Device,C
+C2,100nF,Device,C
+C3,1nF,Device,C
+R1,47k,Device,R
+SW1,SW_Push,Switch,SW_Push
